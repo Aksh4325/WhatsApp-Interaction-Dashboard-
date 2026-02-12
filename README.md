@@ -79,7 +79,7 @@ whatsapp-chat-analyzer/
 ├── main.py                      # Main application
 ├── app.py                       # Main data
 ├── requirements.txt             # Python dependencies
-├── runtime.txt             # runtime environment
+├── runtime.txt                  # runtime environment
 ├── README.md                    # Project documentation
 └── LICENSE                      # MIT License
 ```
