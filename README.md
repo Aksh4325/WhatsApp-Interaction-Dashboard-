@@ -195,7 +195,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Akshay Tiwari**
 - Data Analyst
-- Email: akshay.tiwari@example.com
+- Email: tiwariaksh25@gmail.com
+
+**Ayush patidar**
+- Web Developer
+- Email: ayushpatidar@gmail.com
 
 ## 🎓 Academic Information
 
@@ -218,6 +222,6 @@ This tool processes WhatsApp chats locally on your machine. No data is uploaded 
 
 ---
 
-**© 2026 [Your College Name]. All Rights Reserved.**
+**© 2023 Bherulal Patidar Govt. PG college , Indore. All Rights Reserved.**
 
 *For educational purposes only*
